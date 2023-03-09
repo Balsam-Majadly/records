@@ -10,7 +10,7 @@ file_name=0
 
 function main () {
 #menu
-search $1 "jack"
+menu_search $1 
 }
 
 validation_file $*
