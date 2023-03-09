@@ -1,0 +1,8 @@
+add (search, log, valid)
+delete (search, log, valid)
+search (fileItself, log)
+rename(search, log, valid)
+amount(search, log, valid)
+totalAmount(fileItSelf)
+nameSort(sort.fileItSelf)
+log(echo >> file.log)
