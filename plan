@@ -1,9 +1,0 @@
-add (search, log, valid) Hadeel
-delete (search, log, valid) Balsam
-search (fileItself, log)   Vik  
-rename(search, log, valid) Mahdi
-amount(search, log, valid) Hadeel
-totalAmount(fileItSelf)      Arie
-nameSort(sort.fileItSelf)    Arie
-log(echo >> file.log)        Vik
-validation (if else)         Mahdi
